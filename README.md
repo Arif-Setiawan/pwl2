@@ -1,3 +1,3 @@
 # pwl2
 
-Ini adalah file Hello arif!
+Ini adalah file template colongan
