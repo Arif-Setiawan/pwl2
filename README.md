@@ -1,3 +1,3 @@
 # pwl2
 
-Ini adalah file template colongan
+Ini adalah file template pwl2
